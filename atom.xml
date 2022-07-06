@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alrencheng729.github.io</id>
+    <title>Alren&apos;s Blog</title>
+    <updated>2022-07-06T07:02:32.134Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://alrencheng729.github.io"/>
+    <link rel="self" href="https://alrencheng729.github.io/atom.xml"/>
+    <logo>https://alrencheng729.github.io/images/avatar.png</logo>
+    <icon>https://alrencheng729.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Alren&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Verilog中逻辑判断]]></title>
+        <id>https://alrencheng729.github.io/post/verilog-zhong-luo-ji-pan-duan/</id>
+        <link href="https://alrencheng729.github.io/post/verilog-zhong-luo-ji-pan-duan/">
+        </link>
+        <updated>2022-07-06T06:37:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>主要记录在用公司原有tb文件时，理解原作者的意思是将不定态xx的数值重新赋值为ff，但实际运用时，并没有达到要求。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>主要记录在用公司原有tb文件时，理解原作者的意思是将不定态xx的数值重新赋值为ff，但实际运用时，并没有达到要求。</p>
+]]></content>
+    </entry>
+</feed>
